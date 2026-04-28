@@ -48,14 +48,6 @@ That’s why most of my projects sit at the intersection of **AI + product + rea
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Puneetshivhare\&theme=gruvbox\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Puneetshivhare\&theme=gruvbox\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetshivhare\&theme=gruvbox\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
----
-
 ## ⚡ Philosophy
 
 > Build things that people actually use.
