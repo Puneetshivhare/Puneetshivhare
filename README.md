@@ -43,8 +43,6 @@ That’s why most of my projects sit at the intersection of **AI + product + rea
 ## 🌍 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/puneet-shivhare-32b99720a/
-* 📸 Instagram: https://instagram.com/Puneet%20Shivhare
-* 📘 Facebook: https://www.facebook.com/puneet.shivhare.58
 
 ---
 
